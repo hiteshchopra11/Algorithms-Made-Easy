@@ -3,6 +3,20 @@
 
 ##### May 1, 2021 Questions-:
 
-1. https://leetcode.com/problems/implement-queue-using-stacks/
-2. https://leetcode.com/problems/implement-stack-using-queues/
-3. https://leetcode.com/problems/backspace-string-compare/
+1. Question-:
+   https://leetcode.com/problems/implement-queue-using-stacks/
+
+   Submission-:
+   https://leetcode.com/submissions/detail/487168672/
+
+2. Question-:
+   https://leetcode.com/problems/implement-stack-using-queues/
+
+   Submission-:
+   https://leetcode.com/submissions/detail/487191348/
+ 
+3. Question-:
+   https://leetcode.com/problems/backspace-string-compare/
+   
+   Submission-:
+   https://leetcode.com/submissions/detail/487194469/
