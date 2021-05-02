@@ -20,3 +20,24 @@
    
    Submission-:
    https://leetcode.com/submissions/detail/487194469/
+   
+   
+##### May 2, 2021 Questions-:
+
+1. Question-:
+   https://leetcode.com/problems/design-a-stack-with-increment-operation/
+
+   Submission-:
+   https://leetcode.com/submissions/detail/487809538/
+
+2. Question-:
+   https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+
+   Submission-:
+   https://leetcode.com/submissions/detail/487846370/
+ 
+3. Question-:
+   https://leetcode.com/problems/number-of-recent-calls/
+   
+   Submission-:
+   https://leetcode.com/submissions/detail/487851495/
