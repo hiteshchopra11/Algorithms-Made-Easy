@@ -41,3 +41,23 @@
    
    Submission-:
    https://leetcode.com/submissions/detail/487851495/
+
+##### May 3, 2021 Questions-:
+
+1. Question-:
+   https://leetcode.com/problems/range-sum-of-bst/
+
+   Submission-:
+   https://leetcode.com/submissions/detail/488359431/
+
+2. Question-:
+   https://leetcode.com/problems/merge-two-binary-trees/
+
+   Submission-:
+   https://leetcode.com/submissions/detail/488370083/
+ 
+3. Question-:
+   https://leetcode.com/problems/increasing-order-search-tree/
+   
+   Submission-:
+   https://leetcode.com/submissions/detail/488387814/
