@@ -60,7 +60,7 @@
    https://leetcode.com/problems/increasing-order-search-tree/
    
    Submission-:
-   https://leetcode.com/submissions/detail/488387814/# Leetcode
+   https://leetcode.com/submissions/detail/488387814/
 
 ##### May 4, 2021 Questions-:
 
